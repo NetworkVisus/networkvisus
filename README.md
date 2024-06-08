@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 All of my projects are available at [<will past here portfolio link>](<will past here portfolio link>)
-
 - 📫 How to reach me **ilggl65mag@gmail.com**
-
-- 📄 Know about my experiences [<will past here resume link>](<will past here resume link>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
